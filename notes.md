@@ -11,35 +11,10 @@
 ## Week 3: hash_index.py
 (add notes here)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## My routine after each finished step
 1. Ctrl + S (save all files)
 2. python -m pytest -v        (all tests must pass)
 3. git add .
 4. git commit -m "What I did"
-5. 
+5. git push
+

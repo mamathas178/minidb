@@ -1,6 +1,6 @@
 # minidb
 
-A small database engine built from scratch in Python.
+A small database engine in python.
 
 ## Features (planned)
 - Table storage (week 2)
